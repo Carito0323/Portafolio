@@ -8,7 +8,7 @@ const proyectos = [
   },
   {
     titulo: "Proyecto fundación Peluditos con Futuro",
-    imagen: "proyectos/Logopeluditos.jpg",
+    imagen: "proyectos/LogoPeluditos.jpg",
     descripcion: "Repositorio página web para una fundación de mascotas.",
     link: "https://github.com/Carito0323/Fundacion.github.io.git"
   }
