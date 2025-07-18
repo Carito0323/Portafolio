@@ -4,7 +4,7 @@ const proyectos = [
     titulo: "Proyecto Tienda de mascotas",
     imagen: "proyectos/LogoLilool.jpg",
     descripcion: "Página web moderna con autenticación y base de datos.",
-    link: "https://carito0323.github.io/TiendaLilool/"
+    link: "https://github.com/Carito0323/TiendaLilool.git"
   },
   {
     titulo: "Proyecto fundación Peluditos con Futuro",
